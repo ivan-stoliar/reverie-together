@@ -1,0 +1,119 @@
+# ===========================
+# Unity Generated
+# ===========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]em[Pp]rofiler/
+/[Ii]ndex/
+
+# ===========================
+# Unity Asset Meta Files
+# ===========================
+# Uncomment if you want to ignore meta files (not recommended for teams)
+# *.meta
+
+# ===========================
+# Unity Cache & Auto-Generated
+# ===========================
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+*.suo
+*.user
+*.unityproj
+*.DS_Store
+
+# ===========================
+# Visual Studio / Rider / VS Code
+# ===========================
+.vs/
+.vscode/
+.idea/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ===========================
+# OS Generated
+# ===========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ===========================
+# Build Output
+# ===========================
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ===========================
+# Crash & Log Files
+# ===========================
+sysinfo.txt
+*.stackdump
+*.log
+/[Ll]ogs/
+
+# ===========================
+# Package Manager Cache
+# ===========================
+/[Pp]ackages/
+!/[Pp]ackages/manifest.json
+!/[Pp]ackages/packages-lock.json
+
+# ===========================
+# Addressables
+# ===========================
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/**/AddressableAssetSettings.asset
+
+# ===========================
+# TextMeshPro (keep the asset, ignore generated)
+# ===========================
+# Uncomment if you don't want to track TMP generated files
+# /Assets/TextMesh Pro/
+
+# ===========================
+# JetBrains Rider
+# ===========================
+.idea/
+*.sln.iml
+
+# ===========================
+# Asset Store Tools
+# ===========================
+/[Aa]ssets/AssetStoreTools*
+
+# ===========================
+# Misc
+# ===========================
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+backdoor.txt
